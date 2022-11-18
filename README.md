@@ -26,6 +26,10 @@
 # U
 
 
+![1 update(u) -1](https://user-images.githubusercontent.com/76591698/202595898-51dab983-524e-469e-ae3b-f18bcadfda7f.png)
+
+
+![화면 캡처 2022-11-18 103210](https://user-images.githubusercontent.com/76591698/202596001-ebec533f-c86b-4af0-bc68-0d90822be05a.png)
 
 
 
