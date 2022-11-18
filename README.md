@@ -10,6 +10,7 @@
  1.
   ![2 Post(R) -1](https://user-images.githubusercontent.com/76591698/202595086-ed795c94-bdbf-458d-8474-16ef85473a21.png)
  2.
+ ![2 Post(R) -12](https://user-images.githubusercontent.com/76591698/202595088-73054dc8-3bc0-4b86-8e7b-f9f0a9e1d641.png)
 
 
 
