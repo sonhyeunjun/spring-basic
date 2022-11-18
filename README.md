@@ -14,7 +14,7 @@
 
 # R
 
-  <img src="file:///C:/Users/admin/Pictures/1%20GET(C)%20-1.png>
+  <img width="30%" src="https://user-images.githubusercontent.com/76591698/202594130-d79cbf7b-bac2-44d6-a71c-4f4604726f47.png>
 
 
 
