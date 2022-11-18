@@ -2,7 +2,7 @@
 
 
 #### 간단한 crud 구성
-
+#### postman 대신해서 yet another rest client를 사용하였습니다
 
 
 # C 
