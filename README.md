@@ -28,6 +28,7 @@
 
 ![1 update(u) -1](https://user-images.githubusercontent.com/76591698/202595898-51dab983-524e-469e-ae3b-f18bcadfda7f.png)
 
+(http://localhost:8090/boards GET으로 하고 출력하면 밑 사진처럼 해당 제목의 내용이 바뀐것을 볼 수 있다)
 
 ![화면 캡처 2022-11-18 103210](https://user-images.githubusercontent.com/76591698/202596001-ebec533f-c86b-4af0-bc68-0d90822be05a.png)
 
