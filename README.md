@@ -14,7 +14,7 @@
 
 # R
 
-  
+  <img src="file:///C:/Users/admin/Pictures/1%20GET(C)%20-1.png>
 
 
 
