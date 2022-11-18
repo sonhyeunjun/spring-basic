@@ -35,3 +35,12 @@
 
 
 # D
+
+(해당 제목을 넣어주고 Delete 를 누르고)
+![d](https://user-images.githubusercontent.com/76591698/202596448-841e3e67-506c-41d5-9a44-b46ad823b574.png)
+
+(http://localhost:8090/boards GET으로 하고 출력하면 밑 사진처럼 해당 제목의 내용이 삭제된 것을 볼수 있다)
+
+![d-r](https://user-images.githubusercontent.com/76591698/202596451-30eddd33-8c23-42e5-a2f7-f07a426cfb11.png)
+
+
